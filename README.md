@@ -4,7 +4,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 DevOps Engineer, Servent Leader, Marvel Nerd
 --------------------------------------------
 
-DevOps Engineer for a Healthcare Giant. Constantly seeking to grow, life long technologist, button boy, professional puzzle solver.
 
 * 🌍  I'm based in Nashville, TN
 * ✉️  You can contact me at [Devin.Earl@devinsight.co](mailto:Devin.Earl@devinsight.co)
