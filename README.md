@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Devin "Dev" Earl
 ========================================================================================================================================
 
-DevOps Engineer, Servent Leader, Marvel Nerd
+DevOps Engineer, Servant Leader, Marvel Nerd
 --------------------------------------------
 
 
