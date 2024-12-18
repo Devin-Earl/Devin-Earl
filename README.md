@@ -5,9 +5,9 @@ DevOps Engineer, Servant Leader, Marvel Nerd
 --------------------------------------------
 
 
-* 🌍  I'm based in Nashville, TN
+* 🌍  I'm based in New York City 
 * ✉️  You can contact me at [Devin.Earl@devinsight.co](mailto:Devin.Earl@devinsight.co)
-* 🧠  I'm learning Terraform,Docker,Ansible,K8
+* 🧠  I'm learning Rust,GO, Pulumi,Docker,K8s
 
 ### Skills
 
